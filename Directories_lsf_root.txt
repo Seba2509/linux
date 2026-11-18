@@ -1,0 +1,27 @@
+Directories - ls -f /
+root directory - ls /
+directories move to or change - cd
+move to back - cd ..
+two step up one step up again one step up - cd .. / ..
+showing home directory without move - ls -f ~
+home to root directory change - cd /
+change home to documents - cd ~/
+list the directory tats one step up - ls -f ..
+change into our home directory - cd ~
+create a directory - mkdir
+create a file - touch
+create a text - echo
+remove - rm
+move - mv
+find first line - head
+find last line - tail
+find a user - whoami
+find a disk space - free -h
+count words and lines - wc
+print current working directory - pwd
+dispaly file contents - cat
+search a word - grep
+
+
+
+
