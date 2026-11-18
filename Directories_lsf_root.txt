@@ -21,6 +21,8 @@ count words and lines - wc
 print current working directory - pwd
 dispaly file contents - cat
 search a word - grep
+data base
+
 
 
 
